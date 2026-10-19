@@ -1,0 +1,7 @@
+.mok_deploy_key
+.mok_deploy_key.pub
+.gcm-credential
+.deploy-result.json
+cloudflared.exe
+*.log
+.edge-*/
